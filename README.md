@@ -13,3 +13,5 @@
 - spring security
 - spring oauth2
 - spring JWT
+
+- EJB3 along with messaging and distributed transaction in J2EE context
